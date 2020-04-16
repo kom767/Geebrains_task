@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public class Rook extends Figure {
     public Rook(int posX, int posY, FigureColor color) {
         super(posX, posY, color);

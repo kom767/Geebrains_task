@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public class Chessboard {
     private Figure [][] board;
 

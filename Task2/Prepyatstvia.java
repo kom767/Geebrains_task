@@ -1,5 +1,5 @@
 package Task2;
-
+//задача2
 public class Prepyatstvia {
     public static void main(String[] args) {
         Beings [] array = new Beings[3];

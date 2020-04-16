@@ -1,5 +1,5 @@
 package Task2;
-
+//задача2
 public abstract class Beings {
     protected String name;
 

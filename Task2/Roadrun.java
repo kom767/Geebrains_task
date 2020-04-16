@@ -1,5 +1,5 @@
 package Task2;
-
+//задача2
 public class Roadrun {
     public static void main(String[] args) {
         Human kamil = new Human("Kamil");

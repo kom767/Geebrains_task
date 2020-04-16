@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public class Knight extends Figure {
     public Knight(int posX, int posY, FigureColor color) {
         super(posX, posY, color);

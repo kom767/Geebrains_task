@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public class KingGirl extends Figure {
     public KingGirl(int posX, int posY, FigureColor color) {
         super(posX, posY, color);

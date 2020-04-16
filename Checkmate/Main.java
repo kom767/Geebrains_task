@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 import java.util.Scanner;
 
 public class Main {
