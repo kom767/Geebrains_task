@@ -1,5 +1,5 @@
 package Task1;
-
+//зада
 public class Cat {
     public void run(){
         System.out.println("I can run");
