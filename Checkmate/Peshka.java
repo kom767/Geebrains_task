@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public class Peshka extends Figure {
     public Peshka(int posX, int posY, FigureColor color) {
         super(posX, posY, color);

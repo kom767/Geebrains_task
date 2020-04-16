@@ -1,5 +1,5 @@
 package Checkmate;
-
+//шахматы
 public abstract class Figure {
     protected int posX, posY;
     protected FigureColor color;

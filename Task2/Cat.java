@@ -1,5 +1,5 @@
 package Task2;
-
+//задача2
 public class Cat extends Beings {
     public Cat(String name){
         super(name);
